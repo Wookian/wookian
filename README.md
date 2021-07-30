@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ExtinctAxolotl/ExtinctAxolotl/main/animation.svg">
+    ![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 </div>
